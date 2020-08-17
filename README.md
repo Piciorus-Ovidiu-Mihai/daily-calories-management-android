@@ -9,9 +9,14 @@ These are only some things I used in my application,behind all logical operation
 
 
 ## There are some photos with the application
-
 ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/LoginRegisterAndroid.PNG)<br/><br/><br/>
 ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/HomeCalculator.PNG)<br/><br/><br/>
 ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/Menu.PNG)<br/><br/><br/>
 ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/cardviewandcalc.PNG)<br/><br/><br/>
 ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/cameraintegration.PNG)<br/><br/><br/>
+
+## Getting Started
+You can clone this repository on your local computer and connect to a phone with Android X by USB and after run this application will be installed on your phone.You can use a virtual emulator to see the application .
+
+## Programming Language
+* [Java-Android](https://developer.android.com/guide)
