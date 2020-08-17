@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+
+    <fragment
+        android:id="@+id/nav_calculator"
+        android:name="com.application.dailycaloriesmanagement.ui.calculator.CalculatorFragment"
+        android:label="Calories Calculator"
+        tools:layout="@layout/fragment_calculator" />
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.application.dailycaloriesmanagement.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.application.dailycaloriesmanagement.ui.foodlist.FoodFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_foodlist" />
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.application.dailycaloriesmanagement.ui.daycalories.DayCaloriesFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_daycalories" />
+
+    <fragment
+        android:id="@+id/nav_accounts"
+        android:name="com.application.dailycaloriesmanagement.ui.takepicture.TakePictureFragment"
+        android:label="Take Picture"
+        tools:layout="@layout/fragment_takepicture"></fragment>
+</navigation>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "316314346222",
+    "firebase_url": "https://dailycaloriesmanagement-258e5.firebaseio.com",
+    "project_id": "dailycaloriesmanagement-258e5",
+    "storage_bucket": "dailycaloriesmanagement-258e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316314346222:android:a7d4f805aa3fe35a6b89ff",
+        "android_client_info": {
+          "package_name": "com.application.dailycaloriesmanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316314346222-g27drm5cm6l871pidigj30ode8ao33u8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKDiRPTxzInfBLAq_Tuatd3XuIs-3ZaGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316314346222-g27drm5cm6l871pidigj30ode8ao33u8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
