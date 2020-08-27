@@ -8,7 +8,7 @@ Firstly, I made register and login with firebase. I have a menu with Navigation 
 These are only some things I used in my application,behind all logical operations to make this application to work properly.
 
 
-## There are some photos with the application
+## Some photos
 ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/LoginRegisterAndroid.PNG)<br/><br/><br/>
 ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/HomeCalculator.PNG)<br/><br/><br/>
 ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/Menu.PNG)<br/><br/><br/>
