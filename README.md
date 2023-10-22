@@ -8,6 +8,7 @@ The main purpose of this app is to track all calories that you eat everyday, tak
 In this architecture, known as the Activity-Fragment UI Architecture, the user interface of the Android application is designed by combining Activities and Fragments, which are constructed using XML layouts.
 Activities are fundamental components in Android applications. They represent individual screens or windows in your app. Each Activity typically corresponds to a single screen or user interface, and it manages the UI elements, user interactions, and navigation for that screen.
 Activities are defined in the AndroidManifest.xml file and often contain layout files (XML) that define the visual structure of the user interface.
+
 <p align="center">
   <img src="https://github.com/Piciorus-Ovidiu-Mihai/daily-calories-management-android/blob/master/daily-calories-management-architecture-1.png">
 </p>
@@ -24,15 +25,16 @@ XML layout files are used to define the structure and appearance of user interfa
 Layouts can be inflated and incorporated into Activities and Fragments, allowing you to create consistent and visually appealing user interfaces.
 
 ## 📷 Preview 
-🏹This application has
-* ⚒️ The register and login functionality implemented with Firebase
+Here are some pictures of the application divided per sections.
+
+* The register and login functionality implemented with Firebase
 
 <p align="center">
   <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-login-screen.png">
   <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-register-screen.png">
 </p>
 
-* ⚒️ Fragments for each page and Constraint Layout for arranging all components in the view
+* Fragments for each page and Constraint Layout for arranging all components in the view
 
 <p align="center">
   <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-menu.png"> 
@@ -44,7 +46,7 @@ Layouts can be inflated and incorporated into Activities and Fragments, allowing
   <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-calculator-screen.png">
 </p>
 
-* ⚒️ Camera integration
+* Camera integration
 <p align="center">
   <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-camera-integration-screen.png">
 </p>
