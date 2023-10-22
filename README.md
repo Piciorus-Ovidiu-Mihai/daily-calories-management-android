@@ -4,6 +4,13 @@ I built an Android Application for Daily Calories Management.
 The main purpose of this app is to track all calories that you eat everyday, take photos of your food and make a list with all food you usually eat.
 
 ## 🛠️ Architecture
+<p align="center">
+  <img src="https://github.com/Piciorus-Ovidiu-Mihai/daily-calories-management-android/blob/master/daily-calories-management-architecture-1.png">
+</p>
+
+<p align="center">
+<img src="https://github.com/Piciorus-Ovidiu-Mihai/daily-calories-management-android/blob/master/daily-calories-management-architecture-2.png">
+</p>
 
 ## 📷 Preview 
 🏹This application has
