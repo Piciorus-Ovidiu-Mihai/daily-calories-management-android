@@ -16,15 +16,27 @@ The main purpose of this app is to track all calories that you eat everyday, tak
 🏹This application has
 * ⚒️ The register and login functionality implemented with Firebase
 
-![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-login-screen.png) ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-register-screen.png)
+<p align="center">
+  <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-login-screen.png">
+  <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-register-screen.png">
+</p>
 
 * ⚒️ Fragments for each page and Constraint Layout for arranging all components in the view
-![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-menu.png) ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-cards-screen.png)
 
-![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-calculator-weight-screen.png) ![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-calculator-screen.png)
+<p align="center">
+  <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-menu.png"> 
+  <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-cards-screen.png">
+</p>
+
+<p align="center">
+  <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-calculator-weight-screen.png">
+  <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-calculator-screen.png">
+</p>
 
 * ⚒️ Camera integration
-![alt text](https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-camera-integration-screen.png)<br/><br/><br/>
+<p align="center">
+  <img src="https://github.com/Piciorus-Ovidiu-Mihai/Photos/blob/master/dcm-camera-integration-screen.png">
+</p>
 
 ## 🛡️ Key Features
 
